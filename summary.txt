@@ -1,0 +1,14 @@
+Basics Summary
+  
+    UNIX   ---> vi file --->  COMMAND  ---> i I a A o O --->  TEXT 
+    SHELL  <---- ZZ <-------  MODE     <------ <Esc> <------  MODE
+  
+  
+A Basic vi Session
+
+To enter vi, type: vi filename <Return>
+To enter insert mode, type: i
+Type in the text: This is easy.
+To leave insert mode and return to command mode, press: <Esc>
+In command mode, save changes and exit vi by typing: :wq <Return>
+You are back at the Unix prompt.
